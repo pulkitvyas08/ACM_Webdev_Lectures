@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.a{
+    margin-left: 120px;
+    margin-right: 250px;
+}
+
+.b{
+    margin-top: 100px;
+}
+
+th, td{
+    padding: 15px;
+}
