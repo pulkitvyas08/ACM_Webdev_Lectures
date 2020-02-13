@@ -1,0 +1,94 @@
+body{
+    color: white;
+    background-color: rgb(12, 8, 8);
+}
+
+.c1{
+    background-color: rgb(2, 154, 255);
+    text-align: center;
+    line-height: 85%;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 17%;
+    position: fixed;
+    color: white;
+}
+
+.c2{
+    color: rgb(2, 154, 255);
+    background-color: white;
+    position: fixed;
+    height: 2.3%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    top: 17%;
+    left: 0;
+}
+
+#NG{
+    margin-left: 30%;
+}
+
+.TXCH{
+    background-color: rgb(2, 154, 255);
+    color: white;
+}
+
+#LE{
+    margin-left: 27.5%;
+}
+#LH{
+    margin-left: 0.6%;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.container ul li{
+    float: left;
+    list-style: none;
+    width: 27%;
+    height: 200px;
+    background: red;
+    margin-top: 20%;
+    box-sizing: border-box;    
+    border-radius: 8%;
+    margin-left: 2%;
+    line-height: 50px;
+}
+
+.container2{
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 0px;
+}
+
+.container2 ul li{
+    float: left;
+    list-style: none;
+    width: 27%;
+    height: 200px;
+    background: red;
+    box-sizing: border-box;    
+    border-radius: 9%;
+    margin-left: 2%;
+    line-height: 50px;
+}
+
+.rgb{
+    
+}
+
+.box{
+
+}
+

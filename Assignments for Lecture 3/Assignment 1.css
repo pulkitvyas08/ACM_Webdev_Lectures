@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.a{
+    margin-left: 120px;
+    margin-right: 250px;
+}
+
+.b{
+    margin-top: 50px;
+}
+
+th, td{
+    padding: 15px;
+}
+
+.jumbotron{
+    margin-top: 50px;
+    margin-left: 135px;
+    margin-right: 120px;
+}

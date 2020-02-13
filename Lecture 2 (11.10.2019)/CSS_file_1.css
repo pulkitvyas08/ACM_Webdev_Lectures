@@ -1,0 +1,48 @@
+h1{
+    color: blue;
+    border-width: 5px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    font-style: italic;
+    font-size: 80px;
+    font-family:Comic sans MS;
+}
+.a{
+    color: green;
+    border: 2px solid blue;
+}
+
+div{
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    background-color: yellow;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: pink; 
+}
+
+p{
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.tab{
+    border-color: black;
+}
+
+.one{
+    font-family: algerian;
+    color: red;
+}
+
+.two{
+    font-size: 75%;
+}

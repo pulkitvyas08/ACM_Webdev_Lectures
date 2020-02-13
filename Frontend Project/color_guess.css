@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(12, 8, 8);
+    margin: 0;
+}
+
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+    margin-top: 2%;
+}
+
+h1{
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+    color: white;
+    background: rgb(2, 154, 255);
+    margin: 0;
+    padding: 20px 0;
+}
+
+#white_strip{
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+
+button{
+    border: none;
+    background: none;
+    height: 100%;
+    color: rgb(2, 154, 255);
+    font-size: inherit;
+    transition: all 0.3s;
+}
+
+button:hover {
+    color: white;
+    background: rgb(2, 154, 255);
+}
+
+.clicked{
+    color: white;
+    background: rgb(2, 154, 255);
+}
+
+.box{
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 9%;
+    transition: all 0.4s;
+}
+
+#state{
+    display: inline-block;
+    width: 20%
+}
+
+#sess_color{
+    font-size: 150%;
+}

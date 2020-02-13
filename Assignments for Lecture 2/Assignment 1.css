@@ -1,0 +1,161 @@
+body{
+    /*To-do: change the background color to black and all* font colors to white*/
+    background-color:black;
+    color: white;
+}
+
+.img_cl{
+    border-radius: 15%}
+
+.img_ct{
+    
+    margin-left: 440px;
+}
+
+.st{
+    margin-left: 24px;
+    font-size: 20px;
+}
+
+.kn{
+    margin-left: 150px;
+    margin-right: 100px;
+    color: white;
+}
+
+.k{
+    display: inline;
+    color:black;
+}
+
+.k1{
+    display: inline;
+    border-radius: 10%;
+    padding: 5px;
+    background-color: rgb(255, 124, 47);
+}
+
+.k2{
+    display: inline;
+    border-radius: 10%;
+    padding: 5px;
+    background-color: rgb(84, 192, 235);
+}
+
+.k3{
+    display: inline;
+    border-radius: 10%;
+    padding: 5px;
+    background-color:rgb(153, 51, 51);
+}
+
+.k4{
+    display: inline;
+    border-radius: 10%;
+    padding: 5px;
+    background-color:rgb(153, 51, 51);
+}
+
+.ac{
+    margin-left: 150px;
+}
+
+.imgs{
+    float: left;
+}
+
+.te{
+    margin-left: 230px;
+    color: white;
+    margin-top: 15px;
+}
+
+.t{
+    display: inline;
+    color:black;
+}
+
+.t1{
+    display: inline;
+    background-color:green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t2{
+    display: inline;
+    background-color:green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t3{
+    display: inline;
+    background-color:green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t4{
+    display: inline;
+    background-color:green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t5{
+    display: inline;
+    background-color: green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t6{
+    display: inline;
+    background-color:green;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t7{
+    display: inline;
+    background-color: indianred;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t8{
+    display: inline;
+    background-color:indianred;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.t9{
+    display: inline;
+    background-color:indianred;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.prof_content{
+
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: rgb(80, 71, 71);
+
+}
+
+.top_part{
+    background-color: black;
+}
+
+.prof_content2{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.socials{
+    margin-top: 30px;
+    margin-left: 300px;
+}
